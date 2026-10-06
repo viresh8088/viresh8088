@@ -15,7 +15,7 @@
 ---
 👨‍💻 Who I Am
 ```ts
-const viresh = {
+const VIRESH SARADAR = {
   title: "Computer Science and Design Student | Java Full Stack Developer",
   stack: [
     "Java",
@@ -28,7 +28,8 @@ const viresh = {
   ],
   launchedProjects: [
     "Campus Placement Drive Management System",
-    "Intelligent Network Routing Simulator"
+    "Intelligent Network Routing Simulator",
+    "Croup Recommendation System"
   ],
   certifications: [],
   status: "Computer Science and Design Student",
