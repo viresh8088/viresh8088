@@ -13,9 +13,8 @@
 </a>
 </div>
 ---
-👨‍💻 Who I Am
-```ts
-const VIRESH SARADAR = {
+👨‍💻 I Am
+  VIRESH SARADAR = {
   title: "Computer Science and Design Student | Java Full Stack Developer",
   stack: [
     "Java",
