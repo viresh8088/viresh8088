@@ -20,49 +20,33 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-```java
-public class VireshSaradar {
+Hi, I'm **Viresh Saradar** 👋
 
-    String name = "Viresh Saradar";
+I'm a **Computer Science & Design student** and an aspiring **Java Full Stack Developer** passionate about building practical, user-friendly, and scalable applications.
 
-    String role =
-        "Computer Science & Design Student | Java Full Stack Developer";
+### 💻 What I Work With
 
-    String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "MySQL",
-        "SQL"
-    };
+- ☕ **Java & Spring Boot** — Backend development and REST APIs
+- 🌐 **HTML, CSS & JavaScript** — Responsive web development
+- 🗄️ **MySQL & SQL** — Database design and management
+- 🎨 **UI/UX Design** — Creating clean and user-friendly interfaces
+- 🔧 **Git, GitHub, VS Code & Postman** — Development and API testing
 
-    String[] interests = {
-        "Full Stack Development",
-        "Backend Development",
-        "UI/UX Design",
-        "Problem Solving",
-        "Software Development"
-    };
+### 🚀 Projects
 
-    String[] projects = {
-        "Campus Placement Drive Management System",
-        "Intelligent Network Routing Simulator",
-        "Crop Recommendation System"
-    };
+- 🎓 **Campus Placement Drive Management System**
+- 🌐 **Intelligent Network Routing Simulator**
+- 🌱 **Crop Recommendation System**
 
-    String currentlyLearning =
-        "Advanced Java, Spring Boot, REST APIs & Full Stack Development";
+### 🎯 Currently Learning
 
-    String openTo =
-        "Java Full Stack Developer Opportunities";
-}
-```
+**Advanced Java → Spring Boot → REST APIs → MySQL → Full Stack Development**
 
+### 💼 Open To
+
+**Java Full Stack Developer opportunities, internships, and software development projects.**
 ---
 
 ## 🚀 What I Do
